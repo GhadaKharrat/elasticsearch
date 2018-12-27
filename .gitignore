@@ -1,0 +1,14 @@
+.idea
+*.iml
+*~
+target
+.yo*
+.DS_Store
+.project
+.settings
+.classpath
+src_legacy
+*.jar
+/data
+
+!/doc/intellij/settings.jar
